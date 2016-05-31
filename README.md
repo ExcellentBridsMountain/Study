@@ -15,6 +15,8 @@
 
 [例子:坦克大战](http://wiki.jikexueyuan.com/project/android-game-design/)
 
+[入门例子](http://www.jizhuomi.com/android/game/18.html)
+
 ##Coder
 
 [深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
