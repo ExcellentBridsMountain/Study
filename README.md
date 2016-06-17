@@ -17,6 +17,8 @@
 
 [入门例子](http://www.jizhuomi.com/android/game/18.html)
 
+[开发工具](http://www.androiddevtools.cn/)
+
 ##Coder
 
 [深入理解 Android 卷I](http://wiki.jikexueyuan.com/project/deep-android-v1/)
