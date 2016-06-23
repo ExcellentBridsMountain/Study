@@ -25,6 +25,8 @@
 
 [深入理解 Android 卷II](http://wiki.jikexueyuan.com/project/deep-android-v2/)
 
+[五大经典算法](http://www.cnblogs.com/steven_oyj/category/246990.html)
+
 ##前端
 
 [IOS与Android APP界面设计规范要点](http://www.360doc.com/content/14/1120/18/21412_426730809.shtml)
